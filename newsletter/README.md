@@ -7,7 +7,7 @@ This document contains instructions for uploading a newsletter through the membe
 ##Step 2 - Navigate to the `Newsletters & Handouts` page
 ![Newsletters & Handouts](Newsletter_2.png)
 
-##Step 3 - Click the `Select PDF` button
+##Step 3 - Click `Select PDF`
 ![Select PDF Button](Newsletter_3.png)
 
 ##Step 4 - Select a `.pdf` file
